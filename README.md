@@ -1,2 +1,2 @@
 # burger-api
-My Burger Api
+The JSON file is here [Burger-API](https://prakhartron.github.io/)
